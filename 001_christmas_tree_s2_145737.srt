@@ -1,0 +1,56 @@
+1
+00:00:00,030 --> 00:00:00,810
+Why do half your
+
+2
+00:00:00,810 --> 00:00:02,029
+Christmas lights go out?!
+
+3
+00:00:02,209 --> 00:00:04,499
+Professor Poppleton here! Let's POP the mystery!
+
+4
+00:00:04,679 --> 00:00:07,054
+A 100-light string is really
+
+5
+00:00:07,054 --> 00:00:08,412
+2 strings of 50.
+
+6
+00:00:08,692 --> 00:00:10,582
+Guess! One loop breaks.
+
+7
+00:00:10,582 --> 00:00:11,979
+How many go dark?
+
+8
+00:00:14,529 --> 00:00:15,018
+50!
+
+9
+00:00:15,298 --> 00:00:17,891
+50 bulbs at 2.5 volts:
+
+10
+00:00:17,891 --> 00:00:20,602
+125, about a US socket.
+
+11
+00:00:20,982 --> 00:00:22,826
+Click on subscribe, so your brain
+
+12
+00:00:22,826 --> 00:00:24,056
+can be as big as mine!
+
+13
+00:00:24,236 --> 00:00:26,306
+Pull one bulb, the loop breaks,
+
+14
+00:00:26,306 --> 00:00:28,243
+and half your lights go dark!
+
