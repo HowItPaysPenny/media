@@ -1,0 +1,52 @@
+1
+00:00:00,030 --> 00:00:00,660
+Why does an old
+
+2
+00:00:00,660 --> 00:00:01,626
+phone shut off sooner?!
+
+3
+00:00:01,806 --> 00:00:04,096
+Professor Poppleton here! Let's POP the mystery!
+
+4
+00:00:04,276 --> 00:00:05,831
+Old batteries push their charge
+
+5
+00:00:05,831 --> 00:00:07,235
+out through more resistance.
+
+6
+00:00:07,515 --> 00:00:09,692
+Guess! In tests on one cell, after
+
+7
+00:00:09,692 --> 00:00:12,125
+800 charges, how much more resistance?
+
+8
+00:00:14,675 --> 00:00:16,475
+About 6x, by our maths!
+
+9
+00:00:16,755 --> 00:00:18,920
+More resistance means a deeper voltage
+
+10
+00:00:18,920 --> 00:00:20,573
+dip, and an early switch-off.
+
+11
+00:00:20,953 --> 00:00:22,668
+So an old phone shuts off sooner.
+
+12
+00:00:22,848 --> 00:00:24,301
+In tests on one cell,
+
+13
+00:00:24,301 --> 00:00:26,031
+it fought back 6x harder!
+

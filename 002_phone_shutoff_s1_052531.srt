@@ -1,0 +1,52 @@
+1
+00:00:00,030 --> 00:00:00,999
+Why does your phone
+
+2
+00:00:00,999 --> 00:00:01,866
+shut off at 20%?!
+
+3
+00:00:02,046 --> 00:00:04,336
+Professor Poppleton here! Let's POP the mystery!
+
+4
+00:00:04,516 --> 00:00:06,511
+In cold tests on phones, they
+
+5
+00:00:06,511 --> 00:00:08,644
+switched off showing up to 33%!
+
+6
+00:00:08,924 --> 00:00:10,763
+Guess! What keeps your phone
+
+7
+00:00:10,763 --> 00:00:13,194
+on? Percent, voltage, or temperature?
+
+8
+00:00:15,744 --> 00:00:16,709
+Its voltage!
+
+9
+00:00:16,989 --> 00:00:18,897
+In tests on one phone, it
+
+10
+00:00:18,897 --> 00:00:21,339
+switched off at about 3.4 volts.
+
+11
+00:00:21,719 --> 00:00:22,942
+So at 20%, your
+
+12
+00:00:22,942 --> 00:00:24,815
+phone still has charge.
+
+13
+00:00:24,995 --> 00:00:26,793
+Its voltage just dipped too low!
+
