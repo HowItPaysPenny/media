@@ -1,0 +1,48 @@
+1
+00:00:00,030 --> 00:00:00,903
+Why does my fridge
+
+2
+00:00:00,903 --> 00:00:01,922
+make a popping noise?
+
+3
+00:00:02,102 --> 00:00:04,755
+Makers point to a surprising culprit,
+
+4
+00:00:04,755 --> 00:00:06,404
+and timing is the clue.
+
+5
+00:00:06,684 --> 00:00:09,270
+Guess! Cooling down, or defrosting?
+
+6
+00:00:11,720 --> 00:00:12,200
+Both!
+
+7
+00:00:12,480 --> 00:00:14,353
+The FDA says 40°F or colder.
+
+8
+00:00:14,533 --> 00:00:16,817
+As the inside walls chill, they shrink.
+
+9
+00:00:16,997 --> 00:00:17,874
+When it warms to
+
+10
+00:00:17,874 --> 00:00:19,410
+defrost, they stretch again.
+
+11
+00:00:19,740 --> 00:00:21,466
+So that pop? Makers say it's
+
+12
+00:00:21,466 --> 00:00:23,685
+the walls, shrinking and stretching!
+
